@@ -2,7 +2,7 @@
 
 **Control Autodesk Revit from Gemini web chat** — ask in plain words, check the code, click Run.
 
-*Winner Tools · Revit 2022–2026 (tested on 2023) · pyRevit · MCP SuperAssistant*
+*Tools · Revit 2022–2026 (tested on 2023) · pyRevit · MCP SuperAssistant*
 
 [![▶ Watch the setup video on YouTube](https://img.youtube.com/vi/Q9rMsg5kCu0/hqdefault.jpg)](https://youtu.be/Q9rMsg5kCu0)
 
