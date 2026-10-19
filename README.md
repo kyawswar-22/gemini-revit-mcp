@@ -4,9 +4,9 @@
 
 *Winner Tools · Revit 2022–2026 (tested on 2023) · pyRevit · MCP SuperAssistant*
 
-<!-- VIDEO: replace with your YouTube link and thumbnail
-[![Watch the setup video](docs/images/thumbnail.png)](https://www.youtube.com/watch?v=VIDEO_ID)
--->
+[![▶ Watch the setup video on YouTube](https://img.youtube.com/vi/Q9rMsg5kCu0/hqdefault.jpg)](https://youtu.be/Q9rMsg5kCu0)
+
+▶ **Video:** [https://youtu.be/Q9rMsg5kCu0](https://youtu.be/Q9rMsg5kCu0)
 
 ```
 Gemini (Chrome) → MCP SuperAssistant extension → proxy on your laptop → pyRevit → Revit
