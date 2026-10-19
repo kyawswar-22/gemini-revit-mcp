@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Local copies / backups
+*.bak
+*.new
+snippets/
+
+# Secrets - never commit
+.env
+*.env
+*token*
+*secret*
+*api*key*
+
+# OS / editors
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
